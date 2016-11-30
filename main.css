@@ -1,0 +1,50 @@
+.inner{
+   background: #f8e78d;
+   width:20cm;
+   height:5cm;     
+}
+td[colspan="4"]{font-size:15px; font-weight: 600;}
+
+td[colspan="2"]{color: #ff0000;font-size:13px; font-weight:600;} 
+
+.te{
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.c1{
+    background: rgb(255, 186, 0);
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    text-align: center;
+    font-family: ariel;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.c2{
+    background: #b70707;
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    text-align: center;
+    font-family: ariel;
+    font-size: 24px;
+    font-weight: 900;
+    color: aliceblue
+
+}
+
+.tr{
+    color:  #f8e78d;
+    font-size: 14px;
+    font-weight: 600;
+}
+.c3{
+     color:  #f8e78d;
+}
+
+
+
