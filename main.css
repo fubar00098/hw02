@@ -44,6 +44,15 @@ td[colspan="2"]{color: #ff0000;font-size:13px; font-weight:600;}
 }
 .c3{
      color:  #f8e78d;
+     background: #f8e78d;
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    text-align: center;
+    font-family: ariel;
+    font-size: 24px;
+    font-weight: 900;
+    color:  #f8e78d;
 }
 
 
